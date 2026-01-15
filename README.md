@@ -16,4 +16,4 @@ Uses f-string formatting to print a message with the variables
 Demonstrates how Python handles different datatypes
 🔍 Example Output
 
-My name is alex. I am 23 years old.
+My name is Tharushi. I am 23 years old.
