@@ -1,8 +1,3 @@
-hello.py 
-
-
-
-
 Python Script: Datatypes & Variables Demo
 
 📝 Purpose of the Repository
